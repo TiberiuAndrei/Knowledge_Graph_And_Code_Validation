@@ -1,0 +1,47 @@
+.grid-wrapper {
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+.layout-wrapper {
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.layout-wrapper tbody tr:nth-child(even) {
+    background-color: #f5f5f5
+}
+
+.layout-wrapper tbody tr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.layout-wrapper tbody tr:hover {
+    background-color: #36304a;
+    color: white;
+}
+
+
+.flex-wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+}
+
+.drop-downs-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    width: 60%;
+    
+}
+
+.main-drop-down {
+    width: 100%;
+}
+
+

@@ -1,0 +1,3188 @@
+{
+    "8_18_2024": {
+        "Complete": [
+            "StDev-DR-9 (Design Requirements MonitorSteeringDeviation)",
+            "SetValue-DR-41 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-42 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-188 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-43 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-276 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-206 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-207 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-208 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-209 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-211 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-212 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-213 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-287 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-214 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-288 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-289 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-290 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-283 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-293 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-294 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-296 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-299 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-215 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-221 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-222 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-223 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-224 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-225 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-226 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-227 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-228 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-229 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-230 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-231 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-232 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-233 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-292 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-237 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-300 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-238 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-302 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-239 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-304 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-305 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-245 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-247 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-248 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-250 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-251 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-252 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-306 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-307 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-308 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-309 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-310 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-313 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-314 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-316 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-254 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-260 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-261 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-262 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-264 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-317 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-318 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-319 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-320 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-321 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-322 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-323 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-324 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-325 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-267 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-331 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-333 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-334 (Design Requirements Calculate SetValuePosition)"
+        ],
+        "Incomplete": [
+            {
+                "requirement": "StDev-DR-8 (Design Requirements MonitorSteeringDeviation)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'MSD-FC-RS-29 (Requirements Monitor Steering Deviation CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-5 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'Edit State' of Function Contribution 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-6 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-7 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-8 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'Edit State' of Function Contribution 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-39 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-243 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0410_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-278 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0420_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-189 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0050_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0060_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0090_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0120_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0120_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0230_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0460_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0470_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0480_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0490_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0500_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0510_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0520_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0630_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0640_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0650_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0660_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0670_1 from Jenkins is not 'passed'.",
+                    "Result of tests: test_CIT_DRS_CSVP_0680_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-192 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0460_1 from Jenkins is not 'passed'.",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-153 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-193 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0470_1 from Jenkins is not 'passed'.",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-153 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-241 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0490_1 from Jenkins is not 'passed'.",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-154 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-194 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0480_1 from Jenkins is not 'passed'.",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-154 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-195 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0120_1 from Jenkins is not 'passed'.",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-155 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-196 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0500_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-198 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0050_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-199 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0060_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-200 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0230_1 from Jenkins is not 'passed'.",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-153 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-201 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0090_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-202 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0650_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-203 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0660_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-204 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0510_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-273 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0520_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-240 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0630_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-274 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0670_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-242 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0640_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-275 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0680_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-205 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0150_2_1 from Jenkins is not 'passed'.",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-153 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-277 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0150_2_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-297 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-298 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-301 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-303 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-244 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-246 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-253 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-311 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-312 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-315 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-332 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-335 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-272 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0430_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-279 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Result of tests: test_CIT_DRS_CSVP_0440_1 from Jenkins is not 'passed'."
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-48 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-336 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            }
+        ],
+        "DesginRequirementRiewState": [{
+            "name": "State: Released",
+            "Number of Design Requirements": 122
+        }],
+        "EaChecks": [{
+            "name": "EA Server Check Fail",
+            "Number of Design Requirements": "0"
+        },
+        {
+            "name": "EA Sender & Receiver Check Fail",
+            "Number of Design Requirements": "19"
+        }],
+        "FunctionContributions": [{
+            "name": "State: Released",
+            "Number of Function Contributions": "33"
+        },
+        {
+            "name": "State: Not applicable",
+            "Number of Function Contributions": "1"
+        }]
+    },
+    "6_19_2024": {
+        "Complete": [
+            "StDev-DR-9 (Design Requirements MonitorSteeringDeviation)",
+            "SetValue-DR-10 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-19 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-26 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-28 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-30 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-32 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-34 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-36 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-41 (Design Requirements Calculate SetValuePosition)",
+            "SetValue-DR-42 (Design Requirements Calculate SetValuePosition)"
+        ],
+        "Incomplete": [
+            {
+                "requirement": "StDev-DR-8 (Design Requirements MonitorSteeringDeviation)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'MSD-FC-RS-29 (Requirements Monitor Steering Deviation CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-5 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'Edit State' of Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-6 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'Edit State' of Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-7 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-8 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-22 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-154 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-24 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-154 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-39 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-128 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-188 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-43 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Changed"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-280 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Changed"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-281 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Changed"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-243 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Changed"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-278 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Changed"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-189 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-142 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-190 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-192 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-193 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-241 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-154 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-194 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-154 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-195 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-155 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-196 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-198 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-199 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-200 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-201 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-143 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-202 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-203 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-204 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-142 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-273 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-144 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-240 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-149 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-274 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-242 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-150 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-275 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-205 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-142 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-276 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-277 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-206 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-207 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-208 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-209 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-282 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-211 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-212 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-213 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-283 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-214 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-215 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-216 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-217 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-218 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-219 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-220 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-221 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-222 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-223 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-224 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-225 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-131 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-226 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-227 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-228 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-132 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-229 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-132 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-230 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-132 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-231 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-130 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-232 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-130 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-233 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-130 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-236 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-237 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-238 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-239 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-99 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-130 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-244 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-245 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-246 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-247 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-248 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-250 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-251 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-252 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-253 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-254 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-255 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-256 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-257 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-258 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-259 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-260 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-261 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-262 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-264 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-268 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-269 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-270 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-271 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-272 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-279 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Review"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-48 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'Edit State' of Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-50 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "'Edit State' of Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-128 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-56 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "'Edit State' of Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-128 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-55 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "'Edit State' of Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-128 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-54 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "'Edit State' of Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-128 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-53 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "'Edit State' of Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-128 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-52 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "'Edit State' of Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-128 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-51 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "'Edit State' of Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)' linked to Design Requirement is not applicable",
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-128 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-57 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-58 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            }
+        ],
+        "DesginRequirementRiewState": [{
+            "name": "Edit State: Released",
+            "Number of Design Requirements": 20
+        },
+        {
+            "name": "Edit State: Review",
+            "Number of Design Requirements": 83
+        },
+        {
+            "name": "Edit State: Changed",
+            "Number of Design Requirements": 5
+        },
+        {
+            "name": "Edit State: Not applicable",
+            "Number of Design Requirements": 9
+        }],
+        "EaChecks": [{
+            "name": "EA Server Check Fail",
+            "Number of Design Requirements": 3
+        },
+        {
+            "name": "EA Sender & Receiver Check Fail",
+            "Number of Design Requirements": 23
+        }],
+        "FunctionContributions": [{
+            "name": "State: Released",
+            "Number of Function Contributions": "32"
+        },
+        {
+            "name": "State: Not applicable",
+            "Number of Function Contributions": "1"
+        }]
+    },
+    "2_16_2024": {
+        "Complete": [
+            "StDev-DR-9 (Design Requirements MonitorSteeringDeviation)"
+        ],
+        "Incomplete": [
+            {
+                "requirement": "SetValue-DR-5 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-6 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-7 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-8 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-61 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-62 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-63 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-64 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-65 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-9 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-10 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-11 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-12 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-13 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-14 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-15 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-16 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-17 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-18 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-19 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-20 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-21 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-22 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-23 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-24 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-25 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-26 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-27 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-28 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-29 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-30 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-31 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-32 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-33 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-34 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-35 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-36 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-37 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-38 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-39 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-41 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-42 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-43 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-44 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-45 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-46 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-68 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'MSVP-FC-RS-27 (Requirements Monitor SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-69 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-70 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-71 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-73 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-74 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-140 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-138 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-139 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-72 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-76 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-78 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-80 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-81 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-126 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-127 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-128 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-83 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-86 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-87 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-88 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-117 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-118 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-96 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-100 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-102 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-104 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-99 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-105 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-106 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-107 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-109 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-110 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-111 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-112 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-123 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-113 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-120 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-121 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-122 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-114 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-124 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-115 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-125 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-119 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-48 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-50 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-56 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-55 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-54 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-53 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-52 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-51 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-57 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-58 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "StDev-DR-8 (Design Requirements MonitorSteeringDeviation)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'MSD-FC-RS-30 (Requirements Monitor Steering Deviation CVR4)', which does not respect the ASIL rule"
+                ]
+            }
+        ],
+        "DesginRequirementRiewState": [{
+            "name": "Edit State: Released",
+            "Number of Design Requirements": 79
+        },
+        {
+            "name": "Edit State: Not applicable",
+            "Number of Design Requirements": 24
+        }],
+        "EaChecks": [{
+            "name": "EA Server Check Fail",
+            "Number of Design Requirements": 3
+        },
+        {
+            "name": "EA Sender & Receiver Check Fail",
+            "Number of Design Requirements": 101
+        }],
+        "FunctionContributions": [{
+            "name": "State: Released",
+            "Number of Function Contributions": "32"
+        }]
+    },
+    "1_16_2024": {
+        "Complete": [
+            "StDev-DR-9 (Design Requirements MonitorSteeringDeviation)"
+        ],
+        "Incomplete": [
+            {
+                "requirement": "SetValue-DR-5 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-6 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-7 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-8 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-61 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-62 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-63 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-64 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-65 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-9 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-10 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-11 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-12 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-13 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-14 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-15 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-16 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-17 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-18 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-19 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-20 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-21 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-22 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-23 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-24 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-25 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-26 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-27 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-28 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-29 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-30 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-31 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-32 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-33 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-34 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-35 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-36 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-37 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-38 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-39 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-41 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-42 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-43 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-44 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-45 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-46 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-68 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'MSVP-FC-RS-27 (Requirements Monitor SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-69 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-70 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-71 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-73 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-74 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-140 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-138 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-139 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-72 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-76 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-78 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-80 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-81 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-126 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-127 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-128 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-83 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-86 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-87 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-88 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-117 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-118 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-96 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-100 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-102 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-104 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-99 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-105 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-106 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-107 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-109 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-110 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-111 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-112 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-123 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-113 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-120 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-121 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-122 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-114 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-124 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-115 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-125 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-119 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-48 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-50 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-56 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-55 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-54 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-53 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-52 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-51 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-57 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-58 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "StDev-DR-8 (Design Requirements MonitorSteeringDeviation)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'MSD-FC-RS-30 (Requirements Monitor Steering Deviation CVR4)', which does not respect the ASIL rule"
+                ]
+            }
+        ],
+        "DesginRequirementRiewState": [{
+            "name": "Edit State: Released",
+            "Number of Design Requirements": 79
+        },
+        {
+            "name": "Edit State: Not applicable",
+            "Number of Design Requirements": 24
+        }],
+        "EaChecks": [{
+            "name": "EA Server Check Fail",
+            "Number of Design Requirements": 3
+        },
+        {
+            "name": "EA Sender & Receiver Check Fail",
+            "Number of Design Requirements": 101
+        }],
+        "FunctionContributions": [{
+            "name": "State: Released",
+            "Number of Function Contributions": "32"
+        }]
+    },
+    "12_16_2023": {
+        "Complete": [
+            "StDev-DR-9 (Design Requirements MonitorSteeringDeviation)"
+        ],
+        "Incomplete": [
+            {
+                "requirement": "SetValue-DR-5 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-6 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-7 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-8 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-61 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-62 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-63 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-64 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-65 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-9 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-10 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-11 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-12 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-13 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-14 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-15 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-16 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-17 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-18 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-19 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-20 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-21 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-22 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-23 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-24 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-25 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-26 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-27 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-28 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-29 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-30 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-31 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-32 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-33 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-34 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-35 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-36 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-37 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-38 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-39 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-41 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-42 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-43 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-44 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-45 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-46 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-68 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'MSVP-FC-RS-27 (Requirements Monitor SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-69 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-70 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-71 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-73 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-74 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-140 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-138 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-139 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-72 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-76 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-78 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-80 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-81 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-126 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-127 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-128 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-83 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-86 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-87 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-88 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-117 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-118 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-96 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-100 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-102 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-104 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-99 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-105 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-106 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-107 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-109 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-110 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-111 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-112 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-123 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-113 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-120 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-121 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-122 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-114 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-124 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-115 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-125 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-119 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-48 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-148 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-50 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-56 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-55 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-54 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-53 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-52 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-51 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'CSVP-FC-RS-112 (Requirements Calculate SetValue Position CVR4)', which does not respect the ASIL rule",
+                    "Design Requirement does not reference a server from its corresponding black box from EA",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-57 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "SetValue-DR-58 (Design Requirements Calculate SetValuePosition)",
+                "reasons": [
+                    "'EditState' of Design Requirement is Not applicable",
+                    "Design Requirement deos not contain any reference to a sender or receiver from its corresponding black box from EA"
+                ]
+            },
+            {
+                "requirement": "StDev-DR-8 (Design Requirements MonitorSteeringDeviation)",
+                "reasons": [
+                    "Design Requirement is linked to Function Contribution: 'MSD-FC-RS-30 (Requirements Monitor Steering Deviation CVR4)', which does not respect the ASIL rule"
+                ]
+            }
+        ],
+        "DesginRequirementRiewState": [{
+            "name": "Edit State: Released",
+            "Number of Design Requirements": 79
+        },
+        {
+            "name": "Edit State: Not applicable",
+            "Number of Design Requirements": 24
+        }],
+        "EaChecks": [{
+            "name": "EA Server Check Fail",
+            "Number of Design Requirements": 3
+        },
+        {
+            "name": "EA Sender & Receiver Check Fail",
+            "Number of Design Requirements": 101
+        }],
+        "FunctionContributions": [{
+            "name": "State: Released",
+            "Number of Function Contributions": "32"
+        }]
+    }
+}

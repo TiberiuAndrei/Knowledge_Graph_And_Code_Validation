@@ -1,0 +1,24 @@
+{
+    "Arg": ["vVehSpI_VehSpeedFilt_xdu16", "vFtAxlCanI_VehicleSpeedCompareActive_XDU16"],
+    "Op": ">=",
+    "Type": "Comparison",
+    "ChildrenTrue": {
+        "Arg": ["VALID_wEpsInI_SteeringWheelAngle1_xds16", "VALID_wEpsInI_SteeringWheelAngle2_xds16"],
+        "Type": "Validation",
+        "ChildrenTrue": {
+            "Arg": ["AbsSteeringWheelAngle", "wFtAxlCan_StWhlAngleMaxDiff_XDS16"],
+            "Op": ">",
+            "Type": "Comparison"
+        },
+        "ChildrenFalse": {}
+    },
+    "ChildrenFalse": {
+        "Arg": ["VALID_wEpsInI_SteeringWheelAngle1_xds16"],
+        "Type": "Validation",
+        "ChildrenTrue": {},
+        "ChildrenFalse": {
+            "Arg": ["VALID_wEpsInI_SteeringWheelAngle2_xds16"],
+            "Type": "Validation"
+        }
+    }
+}

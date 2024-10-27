@@ -1,0 +1,2 @@
+- 'extract-excel-data.js' extracts the fields of interest from an input excel file. It also tells how many tests have failed and how many are correct.
+- in the excel file, the 'Test Id' column contains the values in the format 'test_DoorsId_suffix'. We read the DOORS ID by extracting the string between the first and last '_' characters.

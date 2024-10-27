@@ -1,0 +1,4 @@
+- the input is a huge html report. However, we are only interested in the table from section three: "Table of tested Components".
+- we use regex to extract only the portion of the html that corresponds to the section mentioned above. We apply regex again on the result to extract the values from the table.
+- the indexes of the values extracted from the header don't match with the indexes of the values extracted from the row. That is why we manually match them using the variables: 'map', 'headerIndex' and 'rowValuesIndex'.
+- the values that need to be 'Passed' are: 'VCar', 'Tessy' and everything that starts with 'BTC-'.
